@@ -192,3 +192,5 @@ C:\Users\Owner\Documents\ASP.NET Core MVC\DiversityClothing\obj\Debug\netcoreapp
 C:\Users\Owner\Documents\ASP.NET Core MVC\DiversityClothing\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Index.cshtml.g.cs
 C:\Users\Owner\Documents\ASP.NET Core MVC\DiversityClothing\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Browse.cshtml.g.cs
 C:\Users\Owner\Documents\ASP.NET Core MVC\DiversityClothing\obj\Debug\netcoreapp3.1\Razor\Views\Shop\ProductDetails.cshtml.g.cs
+C:\Users\Owner\Documents\ASP.NET Core MVC\DiversityClothing\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Cart.cshtml.g.cs
+C:\Users\Owner\Documents\ASP.NET Core MVC\DiversityClothing\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Checkout.cshtml.g.cs

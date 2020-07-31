@@ -47,6 +47,9 @@ namespace DiversityClothing
             //    .AddEntityFrameworkStores<DiversityClothingContext>();
             services.AddControllersWithViews();
             services.AddRazorPages();
+
+            //Add session support
+            services.AddSession();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -70,6 +73,9 @@ namespace DiversityClothing
 
             app.UseAuthentication();
             app.UseAuthorization();
+
+            //Enable session support
+            app.UseSession();
 
             app.UseEndpoints(endpoints =>
             {
