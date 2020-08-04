@@ -50,6 +50,10 @@ namespace DiversityClothing
 
             //Add session support
             services.AddSession();
+
+            //Stripe
+            //Make configuration value from appsettings.json available to the controller
+            services.AddSingleton<IConfiguration>(Configuration);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
